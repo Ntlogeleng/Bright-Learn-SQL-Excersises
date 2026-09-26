@@ -1,6 +1,6 @@
 # Foundations of SQL
 
-# Project Overview
+## Project Overview
 
 This project introduces the foundational concepts of SQL (Structured Query Language) used to retrieve, filter, organise, summarise and explore data stored in relational databases.
 
