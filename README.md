@@ -18,4 +18,6 @@ GROUP BY
 
 LIMIT
 
+CASE Statements
+
 These commands provide an important foundation for data analysis because they allow an analyst to retrieve specific information, remove duplicate results, filter records and summarise data.
